@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FavoriteNavigationController.swift
 //  GourmetSearch
 //
 //  Created by 梅垣玄 on 2017/07/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FavoriteNavigationController: UINavigationController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
